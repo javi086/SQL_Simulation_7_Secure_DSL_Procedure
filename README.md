@@ -7,7 +7,6 @@ ParameterValues (simple readable format)
 ExecutionTime (optional)
 
 I included messages to confirm the creation or their existenses and after performed the execution I got the expected result.
-
 ![alt text](image.png)
 
 ### Task 2 – Secure DSL Procedure
